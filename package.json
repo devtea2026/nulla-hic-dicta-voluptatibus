@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/nulla-hic-dicta-voluptatibus",
-  "version": "3.5.86",
+  "version": "3.5.87",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -843,5 +843,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/nulla-hic-dicta-voluptatibus/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
